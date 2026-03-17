@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/peasy-compress.svg)](https://rubygems.org/gems/peasy-compress)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://agentgif.com/badge/github/peasytools/peasy-compress-rb/stars.svg)](https://github.com/peasytools/peasy-compress-rb)
 
 Ruby client for the [Peasy Compress](https://peasytools.com) API -- compress, archive, and extract files with ZIP, TAR, gzip, Brotli, and Zstandard. Zero dependencies beyond Ruby stdlib (Net::HTTP, JSON, URI).
 
