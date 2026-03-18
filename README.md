@@ -11,7 +11,7 @@ Built from [Peasy Tools](https://peasytools.com), a comprehensive file compressi
 > **Explore compression formats at [peasytools.com](https://peasytools.com)** -- [ZIP](https://peasytools.com/formats/zip/), [TAR](https://peasytools.com/formats/tar/), [Gzip](https://peasytools.com/formats/gz/), and more.
 
 <p align="center">
-  <img src="demo.gif" alt="peasy-compress demo -- ZIP, TAR, and gzip compression tools in Ruby terminal" width="800">
+  <a href="https://agentgif.com/TxI0mdN1"><img src="https://media.agentgif.com/TxI0mdN1.gif" alt="peasy-compress demo -- ZIP, TAR, and gzip compression tools in Ruby terminal" width="800"></a>
 </p>
 
 ## Table of Contents
